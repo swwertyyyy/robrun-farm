@@ -1,21 +1,30 @@
 <div align="center">
 
-# ⚡ ROB RUN FARM SERVICE ⚡
+```text
+██████╗  ██████╗ ██████╗     ██████╗ ██╗   ██╗███╗   ██╗
+██╔══██╗██╔═══██╗██╔══██╗    ██╔══██╗██║   ██║████╗  ██║
+██████╔╝██║   ██║██████╔╝    ██████╔╝██║   ██║██╔██╗ ██║
+██╔══██╗██║   ██║██╔══██╗    ██╔══██╗██║   ██║██║╚██╗██║
+██║  ██║╚██████╔╝██████╔╝    ██║  ██║╚██████╔╝██║ ╚████║
+╚═╝  ╚═╝ ╚═════╝ ╚═════╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+         ⚡ OFFICIAL FARM SERVICE BY SWWERTY4 ⚡
+```
+
 ### **Оперативный командный фарм игровой валюты с самого нуля на любом сервере**
 
-`👥 КОМАНДНЫЙ ФАРМ` • `🏴‍☠️ КРАЙМ С НУЛЯ` • `⏳ СТРОГО ПО ОЧЕРЕДИ` • `🛡️ 100% БЕЗ ЧИТОВ`
+`👑 FUNPAY: SWWERTY4` • `👥 КОМАНДНЫЙ ФАРМ` • `🏴‍☠️ КРАЙМ С НУЛЯ` • `⏳ ПО ОЧЕРЕДИ` • `🛡️ 100% БЕЗ ЧИТОВ`
 
 </div>
 
 ---
 
-### 🇷🇺 Подробный разбор: как мы фармим ваш заказ
+### 🇷🇺 Подробный разбор: как тима `swwerty4` фармит ваш заказ
 
 > [!IMPORTANT]
-> **Главное преимущество:** Мы не фармим в одиночку — на ваш сервер заходит слаженная команда. Вся валюта добывается с самого нуля после оплаты, поэтому она на 100% чистая и безопасная для вашего аккаунта.
+> **Главное преимущество (`FunPay: swwerty4`):** Мы не фармим в одиночку — на ваш сервер заходит слаженная команда. Вся валюта добывается с самого нуля после оплаты, поэтому она на 100% чистая и безопасная для вашего аккаунта.
 
 > [!NOTE]
-> **Порядок выполнения:** Все заказы выполняются строго **в порядке живой очереди**. Как только мы завершаем текущий заказ, ваша заявка сразу берётся в работу, о чём мы пишем в чат.
+> **Порядок выполнения:** Все заказы выполняются строго **в порядке живой очереди**. Как только мы завершаем текущий заказ, ваша заявка сразу берётся в работу, о чём `swwerty4` лично пишет вам в чат.
 
 #### 🔥 Наши ключевые принципы работы:
 * **⏳ Честная очередь:** заказы выполняются строго по очереди поступления оплаты — каждый клиент получает гарантированный результат без срыва сроков.
@@ -25,30 +34,34 @@
 * **💰 Ноль лишних трат:** вся добытая валюта идёт строго в копилку вашего заказа, мы не тратим ресурсы впустую на ненужные покупки.
 * **⚡ Максимальная оперативность:** не тянем время и не откладываем заказ — приступаем сразу, как только доходит ваша очередь.
 
-#### 📋 Пошаговый процесс сделки:
+#### 📋 Пошаговый процесс сделки (`swwerty4` Official):
 
 | Шаг | Этап работы | Что происходит |
 | :---: | :--- | :--- |
-| **1** | **Уточнение данных и очередь** | После оплаты вы пишете в чат **название/номер сервера** и **никнейм**. Ваш заказ встаёт в очередь (или сразу берётся в работу, если команда свободна). |
+| **1** | **Уточнение данных и очередь** | После оплаты вы пишете в чат `swwerty4` **название/номер сервера** и **никнейм**. Заказ встаёт в очередь (или стартует сразу, если тима свободна). |
 | **2** | **Высадка команды** | Когда подходит ваша очередь, мы заходим на ваш сервер со своих аккаунтов. **Ваш логин и пароль не требуются.** |
 | **3** | **Оперативный крайм-фарм** | Команда с нуля запускает фарм через крайм-активности, чётко распределяя роли и не делая лишних трат. |
-| **4** | **Передача валюты** | Как только нужная сумма (от 500к+) собрана, мы встречаемся в игре, передаём валюту, и вы закрываете заказ. |
+| **4** | **Передача валюты** | Как только нужная сумма (от 500к+) собрана, мы встречаемся в игре, `swwerty4` передаёт валюту, и вы закрываете заказ. |
 
 > [!TIP]
-> **Гарантии качества и бонусы:**
+> **Гарантии качества и бонусы от `swwerty4`:**
 > * ✔️ **Никакого софта:** только живая командная игра — без читов, скриптов, ботов и багов.
 > * ✔️ **Полная прозрачность:** по вашему запросу в любой момент скинем текущее место в очереди, прогресс и баланс в чат.
 > * ✔️ **Бонусы за объём:** при заказе от 1 000 000 и постоянным покупателям накидываем валюту сверху.
 
+<div align="center">
+  <sub>🔒 Original Guide by <b>swwerty4</b> (FunPay) • Копирование запрещено 🔒</sub>
+</div>
+
 ---
 
-### 🇬🇧 Detailed Breakdown: How We Farm Your Order
+### 🇬🇧 Detailed Breakdown: How `swwerty4` Team Farms Your Order
 
 > [!IMPORTANT]
-> **Key Advantage:** We don't farm solo — an experienced team joins your server. All currency is earned completely from scratch after payment, ensuring 100% clean money and zero risk for your account.
+> **Key Advantage (`FunPay: swwerty4`):** We don't farm solo — an experienced team joins your server. All currency is earned completely from scratch after payment, ensuring 100% clean money and zero risk for your account.
 
 > [!NOTE]
-> **Order Queue:** All orders are processed strictly **in order of queue (first-come, first-served)**. As soon as we finish the current order, we immediately start working on yours and notify you in chat.
+> **Order Queue:** All orders are processed strictly **in order of queue (first-come, first-served)**. As soon as we finish the current order, we immediately start working on yours and `swwerty4` notifies you in chat.
 
 #### 🔥 Our Core Farming Principles:
 * **⏳ Fair Queue System:** Orders are completed strictly in the order payments are received — every buyer gets guaranteed delivery without delays.
@@ -58,17 +71,17 @@
 * **💰 Zero Unnecessary Spending:** Every single earned dollar goes straight toward your order total with zero wasted expenses.
 * **⚡ Fast & Focused Execution:** We don't waste time — we jump in and start farming right as soon as your turn in the queue comes up.
 
-#### 📋 Step-by-Step Deal Process:
+#### 📋 Step-by-Step Deal Process (`swwerty4` Official):
 
 | Step | Stage | Description |
 | :---: | :--- | :--- |
-| **1** | **Details & Queue** | After payment, send your **server name/number** and **nickname** in chat. Your order enters the queue (or starts right away if the team is free). |
+| **1** | **Details & Queue** | After payment, send your **server name/number** and **nickname** to `swwerty4`. Your order enters the queue (or starts right away if the team is free). |
 | **2** | **Team Deployment** | Once it's your turn, our team joins your server using our own accounts. **No login or password sharing is needed.** |
 | **3** | **Fast Crime Farming** | Starting from zero, we farm through crime activities with strict role distribution and zero wasted spending. |
-| **4** | **In-Game Transfer** | Once the target amount (500k+) is ready, we meet in-game, transfer the currency, and you confirm the order. |
+| **4** | **In-Game Transfer** | Once the target amount (500k+) is ready, we meet in-game, `swwerty4` transfers the currency, and you confirm the order. |
 
 > [!TIP]
-> **Safety Guarantees & Bonuses:**
+> **Safety Guarantees & Bonuses by `swwerty4`:**
 > * ✔️ **Zero third-party software:** 100% live team gameplay — no cheats, scripts, bots, or exploits.
 > * ✔️ **Full transparency:** queue position, progress, and balance updates available anytime in chat upon request.
 > * ✔️ **Volume bonuses:** free extra currency for orders of 1M+ and returning customers.
@@ -76,5 +89,12 @@
 ---
 
 <div align="center">
-  <b>Спасибо за доверие! Приятной игры в Rob Run 🎮</b>
+
+```text
+╔═══════════════════════════════════════════════════════╗
+║   🎮 ROB RUN CURRENCY SERVICE • FUNPAY: SWWERTY4 🎮   ║
+║     Спасибо за доверие! Приятной и честной игры!      ║
+╚═══════════════════════════════════════════════════════╝
+```
+
 </div>
