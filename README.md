@@ -1,12 +1,9 @@
 <div align="center">
 
-<!-- Верхний графический баннер -->
-<img src="https://vercel.app" width="100%" />
+# ⚡ ROB RUN FARM SERVICE ⚡
+### **Оперативный командный фарм игровой валюты с самого нуля на любом сервере**
 
-![Team](https://shields.io)
-![Method](https://shields.io)
-![Safety](https://shields.io)
-![Access](https://shields.io)
+`👥 КОМАНДНЫЙ ФАРМ` • `🏴‍☠️ КРАЙМ С НУЛЯ` • `🛡️ 100% БЕЗ ЧИТОВ` • `🔒 БЕЗ ПЕРЕДАЧИ АККАУНТА`
 
 </div>
 
@@ -14,6 +11,7 @@
 
 ### 🇷🇺 Подробный разбор: как мы фармим ваш заказ
 
+> [!IMPORTANT]
 > **Главное преимущество:** Мы не фармим в одиночку — на ваш сервер заходит слаженная команда. Вся валюта добывается с самого нуля после оплаты, поэтому она на 100% чистая и безопасная для вашего аккаунта.
 
 #### 🔥 Наши ключевые принципы работы:
@@ -32,16 +30,17 @@
 | **3** | **Оперативный крайм-фарм** | Команда с нуля запускает фарм через крайм-активности, чётко распределяя роли и не делая лишних трат. |
 | **4** | **Передача валюты** | Как только нужная сумма (от 500к+) собрана, мы встречаемся в игре, передаём валюту, и вы закрываете заказ. |
 
-#### 🛡️ Гарантии качества:
-* ✔️ **Никакого софта:** только живая командная игра — без читов, скриптов, ботов и багов.
-* ✔️ **Полная прозрачность:** по вашему запросу в любой момент скинем актуальный прогресс и баланс в чат.
-* ✔️ **Бонусы за объём:** при заказе от 1 000 000 и постоянным покупателям накидываем валюту сверху.
+> [!TIP]
+> **Гарантии качества и бонусы:**
+> * ✔️ **Никакого софта:** только живая командная игра — без читов, скриптов, ботов и багов.
+> * ✔️ **Полная прозрачность:** по вашему запросу в любой момент скинем актуальный прогресс и баланс в чат.
+> * ✔️ **Бонусы за объём:** при заказе от 1 000 000 и постоянным покупателям накидываем валюту сверху.
 
-<!-- Графический разделитель между языками -->
-<img src="https://vercel.app" width="100%" />
+---
 
 ### 🇬🇧 Detailed Breakdown: How We Farm Your Order
 
+> [!IMPORTANT]
 > **Key Advantage:** We don't farm solo — an experienced team joins your server. All currency is earned completely from scratch after payment, ensuring 100% clean money and zero risk for your account.
 
 #### 🔥 Our Core Farming Principles:
@@ -60,10 +59,14 @@
 | **3** | **Fast Crime Farming** | Starting from zero, we farm through crime activities with strict role distribution and zero wasted spending. |
 | **4** | **In-Game Transfer** | Once the target amount (500k+) is ready, we meet in-game, transfer the currency, and you confirm the order. |
 
-#### 🛡️ Safety Guarantees:
-* ✔️ **Zero third-party software:** 100% live team gameplay — no cheats, scripts, bots, or exploits.
-* ✔️ **Full transparency:** progress and balance updates available anytime in chat upon request.
-* ✔️ **Volume bonuses:** free extra currency for orders of 1M+ and returning customers.
+> [!TIP]
+> **Safety Guarantees & Bonuses:**
+> * ✔️ **Zero third-party software:** 100% live team gameplay — no cheats, scripts, bots, or exploits.
+> * ✔️ **Full transparency:** progress and balance updates available anytime in chat upon request.
+> * ✔️ **Volume bonuses:** free extra currency for orders of 1M+ and returning customers.
 
-<!-- Нижний графический футер -->
-<img src="https://vercel.app🎮&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%" />
+---
+
+<div align="center">
+  <b>Спасибо за доверие! Приятной игры в Rob Run 🎮</b>
+</div>
