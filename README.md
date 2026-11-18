@@ -28,7 +28,7 @@
 
 #### Как мы работаем:
 * **По очереди:** делаем заказы в том порядке, в котором прошла оплата.
-* **С тимой:** играем командой, поэтому фармим намного быстрее одиночек и спокойно берём крупные заказы (от 500к и выше).
+* **С тимой:** играем командой, поэтому фармим намного быстрее одиночек и спокойно берём крупные заказы.
 * **Через крайм:** зарабатываем через самые прибыльные крайм-активности в игре.
 * **С нуля:** заходим на ваш сервер чистыми и набиваем всю сумму специально под ваш заказ.
 * **Без лишних трат:** никуда не сливаем деньги, всё идёт строго в сумму вашего заказа.
@@ -64,7 +64,7 @@
 
 #### How we farm:
 * **Fair queue:** orders are handled in the exact order payments are received.
-* **Teamwork:** playing as a team lets us farm much faster than solo players and handle big orders (500k+).
+* **Teamwork:** playing as a team lets us farm much faster than solo players and handle big orders.
 * **Crime activities:** we earn through the most profitable crime activities in the game.
 * **From scratch:** we join your server fresh and build up the full amount specifically for your order.
 * **No wasted money:** zero unnecessary spending — every dollar goes straight toward your order.
